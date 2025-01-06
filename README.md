@@ -1,4 +1,4 @@
-# QR Code Generator
+# QR Code Generator------
 
 A simple QR Code Generator application developed using Python, Tkinter, and the `qrcode` library. This project allows users to create QR codes for employee details, including Employee ID, Name, Department, and Designation.
 
